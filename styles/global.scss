@@ -1,0 +1,109 @@
+body {
+	margin: 0;
+
+	background: url(../images/background.png);
+
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+
+	color: #525252;
+
+	.container {
+		max-width: 1200px;
+		min-width: 0;
+
+        margin: 20px auto;
+
+        display: block;
+
+        #logo {
+        	width: 290px;
+        	height: 96px;
+
+        	margin-bottom: 20px;
+
+        	background: url(../images/lsrp.png);
+        }
+
+        section {
+        	background: #FFF;
+
+        	border: 2px solid #E6E9ED;
+
+            text-align: center;
+
+        	.item {
+        		width: 150px;
+        		height: 150px;
+
+                background: #404040;
+
+                border-radius: 6px;
+
+                margin: 12px;
+
+        		display: inline-block;
+
+                overflow: hidden;
+
+                position: relative;
+
+        		img {
+        			height: 140px;
+
+                    position: absolute;
+
+                    left: 0;
+                    right: 0;
+
+                    top: 0;
+                    bottom: 0;
+
+        			margin: auto;
+        		}
+
+                .overlay {
+                    height: 150px;
+                    width: 150px;
+
+                    position: absolute;
+
+                    border-radius: 6px;
+
+                    opacity: 0;
+
+                    background: rgba(0, 0, 0, .66);
+
+                    display: grid;
+
+                    cursor: default;
+
+                    .title {
+                        margin: 12px auto;
+                        padding: 0 6px;
+
+                        font-size: 12px;
+                        font-weight: bolder;
+
+                        color: rgba(255, 255, 255, .5);
+
+                        text-shadow: 0 0 1px #000;
+                    }
+
+                    .info {
+                        margin: 12px auto;
+
+                        padding: 0 6px;
+
+                        font-size: 12px;
+
+                        color: rgba(255, 255, 255, .33);
+
+                        text-shadow: 0 0 1px #000;
+
+                        cursor: text;
+                    }
+                }
+        	}
+        }
+	}
+}
