@@ -977,14 +977,6 @@
 		{
 			"type": 0,
 
-			"title": "",
-			
-			"texture": "",
-			"model": ""
-		},
-		{
-			"type": 0,
-
 			"title": "police department - bdu black",
 			
 			"texture": "0x67F0925C",
@@ -1165,6 +1157,454 @@
 			
 			"texture": "0x5E5831BB",
 			"model": "0xA9510BC2"
+		},
+		{
+			"type": 0,
+
+			"title": "gangster - hispanic",
+			
+			"texture": "0x1B7205ED",
+			"model": "0xAA523921"
+		},
+		{
+			"type": 2,
+
+			"title": "other - landmass",
+			
+			"texture": "0xB6599DE4",
+			"model": "0xAAE18894"
+		},
+		{
+			"type": 1,
+
+			"title": "sheriffs department - seb helmet",
+			
+			"texture": "0x4C9DDB0F",
+			"model": "0xACDB8B4E"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - untitled",
+			
+			"texture": "0xD0A39503",
+			"model": "0xAF3EE2E6"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - ryder",
+			
+			"texture": "0xC4A028ED",
+			"model": "0xB0AB0F35"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - rockstar white",
+			
+			"texture": "0xEA77CE48",
+			"model": "0xB0B8845B"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - business atire",
+			
+			"texture": "0x87D2E100",
+			"model": "0xB4B49A5"
+		},
+		{
+			"type": 0,
+
+			"title": "gangster - white",
+			
+			"texture": "0xDDD4B322",
+			"model": "0xB7E629DC"
+		},
+		{
+			"type": 1,
+
+			"title": "police department - sergeant insignia",
+			
+			"texture": "0x7F14E63C",
+			"model": "0xB0712A1"
+		},
+		{
+			"type": 0,
+
+			"title": "corrections officer - tactical white",
+			
+			"texture": "0x7E18C2A4",
+			"model": "0xB0809B26"
+		},
+		{
+			"type": 2,
+
+			"title": "police department - some fancy ass shit :(",
+			
+			"texture": "0xD07C2FB2",
+			"model": "0xB851B748"
+		},
+		{
+			"type": 0,
+
+			"title": "corrections officer - white",
+			
+			"texture": "0xF45A406C",
+			"model": "0xB0895D4D"
+		},
+		{
+			"type": 0,
+
+			"title": "gangster - black",
+			
+			"texture": "0x65CC16D7",
+			"model": "0xB1133D51"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - lapd",
+			
+			"texture": "0x4BEBFE25",
+			"model": "0xB7515B78"
+		},
+		{
+			"type": 0,
+
+			"title": "sheriffs department - seb black",
+			
+			"texture": "0x4C9DDB0F",
+			"model": "0xB2830593"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - black",
+			
+			"texture": "0x908AE0C5",
+			"model": "0xBB18A78F"
+		},
+		{
+			"type": 2,
+
+			"title": "other - long case?",
+			
+			"texture": "0x6F58F812",
+			"model": "0xBE5DC2ED"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - rich black",
+			
+			"texture": "0x6527AF4",
+			"model": "0xBE006B92"
+		},
+		{
+			"type": 0,
+
+			"title": "federal agent - black",
+			
+			"texture": "0xB7190D94",
+			"model": "0xBE98F935"
+		},
+		{
+			"type": 0,
+
+			"title": "fire department - paramedic white female",
+			
+			"texture": "0xC9422CF1",
+			"model": "0xBE405287"
+		},
+		{
+			"type": 0,
+
+			"title": "police department - swat white",
+			
+			"texture": "0xE7BF0684",
+			"model": "0xBF2ED89F"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - business black",
+			
+			"texture": "0x2577F25B",
+			"model": "0xC1A453E7"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - kendl white",
+			
+			"texture": "0xFE3CD4D1",
+			"model": "0xC2B5217"
+		},
+		{
+			"type": 0,
+
+			"title": "crew - black business",
+			
+			"texture": "0xBEE650C1",
+			"model": "0xC3E3CA05"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - casual",
+			
+			"texture": "0xF1D6EBCC",
+			"model": "0xC7D670B7"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - biker head",
+			
+			"texture": "0xA7724D7E",
+			"model": "0xC42EB503"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - casual serbian",
+			
+			"texture": "0x48452B33",
+			"model": "0xC57E350B"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - hispanic casual",
+			
+			"texture": "0xC40498F2",
+			"model": "0xC84BEF0"
+		},
+		{
+			"type": 1,
+
+			"title": "sheriffs department - vest",
+			
+			"texture": "0x44F3205F",
+			"model": "0xC81829EC"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - business sfpd",
+			
+			"texture": "0x98997352",
+			"model": "0xCD549D32"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - asian",
+			
+			"texture": "0x6EF8E6A7",
+			"model": "0xCDE7127D"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - business white",
+			
+			"texture": "0x8E1FC51",
+			"model": "0xCDF6558"
+		},
+		{
+			"type": 1,
+
+			"title": "police department - gas mask",
+			
+			"texture": "0x7377599E",
+			"model": "0xD1AF943"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - casual hispanic",
+			
+			"texture": "0x724A947B",
+			"model": "0xD3C90970"
+		},
+		{
+			"type": 0,
+
+			"title": "corrections officer - female white",
+			
+			"texture": "0xD34CD711",
+			"model": "0xD6A6C577"
+		},
+		{
+			"type": 0,
+
+			"title": "gangster - hispanic casual",
+			
+			"texture": "0x236923DC",
+			"model": "0xD9B8BEB6"
+		},
+		{
+			"type": 0,
+
+			"title": "corrections officer - white dsher",
+			
+			"texture": "0x9D1CF763",
+			"model": "0xD83F3468"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - unknown",
+			
+			"texture": "0x1F37C259",
+			"model": "0xD086AB0A"
+		},
+		{
+			"type": 0,
+
+			"title": "crew - business female white",
+			
+			"texture": "0x8BCBBD36",
+			"model": "0xD53484C5"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - jethro casual",
+			
+			"texture": "0xE7B78499",
+			"model": "0xD6817158"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - business asian",
+			
+			"texture": "0x6EB41BAB",
+			"model": "0xDBDCBF39"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - christian serb",
+			
+			"texture": "0x14EB6E9D",
+			"model": "0xDBF61A98"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - casual",
+			
+			"texture": "0x341652E",
+			"model": "0xDE9B862B"
+		},
+		{
+			"type": 0,
+
+			"title": "police department - bdu hispanic",
+			
+			"texture": "0xAAEB7091",
+			"model": "0xDE52626D"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - business asian",
+			
+			"texture": "0x6A53A0BF",
+			"model": "0xDFC6E7C6"
+		},
+		{
+			"type": 0,
+
+			"title": "biker - casual white",
+			
+			"texture": "0x26C5FFF0",
+			"model": "0xE5E5A657"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - casual black dress",
+			
+			"texture": "0x395406C8",
+			"model": "0xE9BA7F3"
+		},
+		{
+			"type": 1,
+
+			"title": "sheriffs department - seb vest",
+			
+			"texture": "0x5F1F589E",
+			"model": "0xE12AF12E"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - casual",
+			
+			"texture": "0xB6CC5948",
+			"model": "0xE30ECCBA"
+		},
+		{
+			"type": 2,
+
+			"title": "other - another locked chest",
+			
+			"texture": "0x23ED1615",
+			"model": "0xE31F063"
+		},
+		{
+			"type": 0,
+
+			"title": "civilian - white",
+			
+			"texture": "0xF27B279C",
+			"model": "0xE52A8117"
+		},
+		{
+			"type": 0,
+
+			"title": "",
+			
+			"texture": "",
+			"model": ""
+		},
+		{
+			"type": 0,
+
+			"title": "",
+			
+			"texture": "",
+			"model": ""
+		},
+		{
+			"type": 0,
+
+			"title": "",
+			
+			"texture": "",
+			"model": ""
+		},
+		{
+			"type": 0,
+
+			"title": "",
+			
+			"texture": "",
+			"model": ""
+		},
+		{
+			"type": 0,
+
+			"title": "",
+			
+			"texture": "",
+			"model": ""
 		},
 		{
 			"type": 0,
