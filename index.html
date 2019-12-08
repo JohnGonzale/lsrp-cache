@@ -18,7 +18,7 @@
 
 		<script type="text/javascript">
 			$(function() {
-				$.getJSON("assets.json", function(data) {
+				$.getJSON("assets.json?1", function(data) {
 					let objects = data.objects.sort();
 
 					$("#count").append(' (' + objects.length + ' models)');
