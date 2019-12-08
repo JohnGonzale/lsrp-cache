@@ -1,5 +1,5 @@
 {
-	"revised": "2019-DEC-07",
+	"revised": "2019-DEC-08",
 
 	"types": [
 		"skin", "clothing"
@@ -49,7 +49,7 @@
 		{
 			"type": 0,
 
-			"title": "parole officer - white",
+			"title": "corrections officer - parole officer white",
 			
 			"texture": "0x2841DC43",
 			"model": "0x2BCE93DB"
